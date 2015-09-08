@@ -14,5 +14,4 @@ And strat making pull request to this repository.
 Spacified formate are accepted only.
 
 ### [Contributor Name]
-    [Name]                      [ IM ]                [Web Address]
-(1) Vallabh Kansagara           @vrkansagara          http://vrkansagara.in
+(1) Vallabh Kansagara
